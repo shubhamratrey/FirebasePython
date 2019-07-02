@@ -1,0 +1,6 @@
+# Function dependencies, for example:
+# package>=version
+firebase-admin==2.13.0
+pycloudfn==0.1.205
+flask==0.12
+google-cloud-bigquery==1.5.1
